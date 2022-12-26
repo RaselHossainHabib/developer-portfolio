@@ -1,6 +1,10 @@
 body {
   <style>@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
-  </style>
+
+}
+
+body {
+  margin: 0%;
 }
 
 h1 {
@@ -32,4 +36,9 @@ section {
   color: white;
   font-weight: 700;
   border-radius: 5px;
+}
+
+.top-banner {
+  background-image: url(showOff/images/top-banner.png);
+  background-repeat: no-repeat;
 }
